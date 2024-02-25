@@ -13,4 +13,4 @@
 -    📐 Responsive Design: Ensured a seamless user experience with a responsive and aesthetically pleasing layout.
 
 ## Screen shot
-![](public\Analog Clock.png)
+![](./public/Analog%20Clock.png)
